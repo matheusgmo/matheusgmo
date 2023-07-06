@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="200px" align="right">
 
-<a href="https://www.mailto:matheusmoraes.gb19@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:matheusmoraes.gb19@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/matheusmoraesgb/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/thea__nemesis/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmail"></a>
 
@@ -28,8 +28,8 @@
 
 <div>
   <a href="https://github.com/matheusgmo/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusgmo&theme=transparent"/></a>
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusgmo&theme=transparent"/></a>
   <a href="https://github.com/matheusgmo/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusgmo&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusgmo&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
   </a>
 </div>
