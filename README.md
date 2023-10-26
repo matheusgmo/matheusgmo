@@ -8,8 +8,8 @@
 
 - 👀 I'm currently focusing on **Front-End Development**
 - ⚙️ I use daily: `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **React & Express**
-- 💬 Ask me about: **RPG, Metal Music, Games**
+- 🔭 I'm currently learning **React & Bootstrap**
+- 💬 Ask me about: **RPG, Metal Music, Souls Like Games**
 
 ## Languages and Tools
 
