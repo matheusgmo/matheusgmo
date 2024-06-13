@@ -21,13 +21,3 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-## My Stats
-
-<div>
-  <a href="https://github.com/matheusgmo/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusgmo&theme=transparent"/></a>
-  <a href="https://github.com/matheusgmo/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusgmo&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
-  </a>
-</div>
