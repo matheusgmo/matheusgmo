@@ -7,8 +7,8 @@
 <a href="https://www.instagram.com/matheus_gmo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Gmail"></a>
 
 - 👀 I'm currently focusing on **Front-End Development**
-- ⚙️ I use daily: `.js`, `.html`, `.css`.
-- 🔭 I'm currently learning **React & Bootstrap**
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.bootstrap`.
+- 🔭 I'm currently learning **React**
 - 💬 Ask me about: **RPG, Metal Music, Souls Like Games**
 
 ## Languages and Tools
